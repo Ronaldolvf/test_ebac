@@ -1,1 +1,1 @@
-# Histórico do preço da gasolina de primeiro até dez de julho de 2021.
+# Histórico do preço da gasolina do dia um até o dia dez de julho de 2021.
